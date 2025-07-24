@@ -1,0 +1,22 @@
+.feed-container {
+  padding: 2rem;
+}
+
+.feed-post {
+  background: var(--parchment);
+  border-left: 6px solid var(--bronze);
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.feed-author {
+  font-weight: bold;
+  color: var(--twilight);
+}
+
+.feed-text {
+  margin-top: 0.5rem;
+  color: var(--deep);
+}

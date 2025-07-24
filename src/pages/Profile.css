@@ -1,0 +1,19 @@
+.profile-container {
+  padding: 2rem;
+  background-color: var(--parchment);
+  border: 1px solid var(--bronze);
+  border-radius: 10px;
+}
+
+.profile-header {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--twilight);
+}
+
+.profile-section {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #fffaf3;
+  border-radius: 8px;
+}

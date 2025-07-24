@@ -1,0 +1,20 @@
+.navbar {
+  background-color: var(--twilight);
+  color: var(--parchment);
+  padding: 1rem;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.navbar a {
+  color: var(--parchment);
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar a:hover {
+  color: var(--bronze);
+  transform: scale(1.05);
+}

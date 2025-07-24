@@ -1,0 +1,33 @@
+.stream-container {
+  background: var(--deep);
+  color: white;
+  height: 100vh;
+  padding: 2rem;
+}
+
+.stream-chat {
+  background: #2e2b44;
+  padding: 1rem;
+  height: 300px;
+  overflow-y: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.stream-input {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: none;
+  margin-top: 1rem;
+}
+
+.stream-button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--bronze);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
